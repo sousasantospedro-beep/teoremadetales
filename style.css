@@ -2,6 +2,7 @@ body {
     color: rgb(0, 0, 0);
     background: rgb(255, 187, 0);
     margin: 0px;
+    font-family: "limelight", sans-serif;
 
 }
 
@@ -14,7 +15,7 @@ header {
 
 }
 
-section {
+. chamada {
     background: rgb(243, 227, 0);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -24,4 +25,25 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
+}
+
+h1{
+    font-size: 40px ;
+}
+
+p{
+     font-size: 20px;
+
+}
+
+img{
+    height: 200px;
+} 
+. outros videos{
+
+
+}
+.categoria{
+    padding-left: 20px;
+    padding-fight: 20px;
 }
