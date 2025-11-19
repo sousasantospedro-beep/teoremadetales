@@ -41,7 +41,7 @@ p{
 .outros videos{
     display: flex;
     overflow-x: auto;
-    gap: 10x
+    gap: 10x;
 
 
 }
@@ -58,4 +58,8 @@ p{
 .categoria-videos img:hover{
     opacity: 1,0;
     border: 1px solid red;
+}
+
+.categoria hy{
+    color: white;
 }
